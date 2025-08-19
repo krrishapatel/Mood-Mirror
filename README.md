@@ -198,10 +198,6 @@ moodmirror-voice-emotion/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Web Audio API** for audio processing capabilities
@@ -209,10 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for beautiful styling
 - **Lucide** for beautiful icons
 - **Next.js** for the amazing React framework
-
-## 📞 Support
-
-For support, email support@moodmirror.com or create an issue in the repository.
 
 ---
 
